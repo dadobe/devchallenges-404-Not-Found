@@ -26,24 +26,30 @@
 
 ## Table of Contents
 
+- [About me](#about-me)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Editor used](€editor-used)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
-## Overview
+## About me
 
-![screenshot](https://github.com/dadobe/devchallenges-404-Not-Found/blob/main/404.png)
+Hello there! I'm 'dadobe'.
 
 Starting a new journey in WEB DEV.
 Trying to learn a bit everyday.
 Finally decided to put in practice what I've learned in the past months.
 
 This is a simple example of 404 page (it works responsively as well :) ).
+
+## Overview
+
+![screenshot](https://github.com/dadobe/devchallenges-404-Not-Found/blob/main/404.png)
+
 
 ### Built With
 
