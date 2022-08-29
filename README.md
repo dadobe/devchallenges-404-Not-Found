@@ -39,8 +39,6 @@
 
 ![screenshot](https://github.com/dadobe/devchallenges-404-Not-Found/blob/main/404.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 Starting a new journey in WEB DEV.
 Trying to learn a bit everyday.
 Finally decided to put in practice what I've learned in the past months.
